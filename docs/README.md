@@ -136,6 +136,7 @@ OctoAcmeでは、顧客価値を最大化し、チームの効率性を高める
 ### 役割と責任
 - **[役割とペルソナ](./octoacme-roles-and-personas.md)** - プロジェクトで使用される典型的な役割と責任の定義
 - **[役割連携マトリックス](./octoacme-role-collaboration-matrix.md)** - 役割間の連携ポイント、意思決定権限、コミュニケーションプロトコル
+- **[役割割当ガイド](./octoacme-role-assignment-guide.md)** - プロジェクトに必要な役割の選定と曖昧さ解消のガイド
 
 ### プロジェクトライフサイクル
 - **[プロジェクト開始ガイド](./octoacme-project-initiation.md)** - ステークホルダーの調整と軽量な計画の作成
